@@ -1,2 +1,3 @@
-# Auto detect text files and perform LF normalization
+SimplesWeb/js/* linguist-language=asp
+*.cshtml linguist-language=asp
 * text=auto
