@@ -1,6 +1,6 @@
 # CRUD-ASP-Classico-MySQL
 
-Exemplo de criação CRUD em Asp Clássico
+Exemplo de criação CRUD em ASP Clássico
 
 ## Competências
 
