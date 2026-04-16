@@ -1,3 +1,4 @@
 SimplesWeb/js/* linguist-language=ASP
+SimplesWeb/owl-carousel/* linguist-language=ASP
 *.cshtml linguist-language=ASP
 * text=auto
