@@ -11,7 +11,7 @@ Exemplo de criação CRUD em ASP Clássico
 
 ## Execução da aplicação
 
-Necessário instalar driver  [MySQL]([mysql-connector-odbc-5.3.13-win32](https://dev.mysql.com/blog-archive/mysql-connector-odbc-5-3-13/).
+Necessário instalar driver  [MySQL][mysql-connector-odbc-5.3.13-win32](https://dev.mysql.com/blog-archive/mysql-connector-odbc-5-3-13/).
 Necessário Habilitar Aplicativos de 32 Bits no servidor IIS do Windows. 
 Para executar a aplicação é necessário rodar Script banco de dados. 
 
