@@ -2,7 +2,7 @@
 
 Exemplo de criação de CRUD em ASP Clássico com banco de dados MySQL.
 
-## Competências
+## O que voçê vai ver nesse Projeto
 
 
 - **HTML5** - Utilização de Template Responsivo [owlcarousel](https://owlcarousel2.github.io/OwlCarousel2/demos/demos.html)
@@ -15,7 +15,7 @@ Necessário instalar driver  [MySQL][mysql-connector-odbc-5.3.13-win32](https://
 Necessário Habilitar Aplicativos de 32 Bits no servidor IIS do Windows. 
 Para executar a aplicação é necessário rodar Script banco de dados. 
 
-## String de conexão do banco
+### String de conexão do banco
 
 Modifique a string de conexão no arquivo **abreconexao.asp**, no trecho indicado:
 
@@ -27,7 +27,7 @@ Modifique a string de conexão no arquivo **abreconexao.asp**, no trecho indicad
 ```
 O script para criação da tabela do exemplo encontra-se na pasta **Database**.
 
-### Aqui está uma demonstração do Projeto
+#### Aqui está uma demonstração do Projeto
 
 <img width="934" height="605" alt="ASP-Classico-CRUD-MySQL" src="https://github.com/user-attachments/assets/fd464677-9969-46cf-9fd5-3c32b59cd8b9" />
 
