@@ -27,9 +27,4 @@ Modifique a string de conexão no arquivo **abreconexao.asp**, no trecho indicad
 ```
 O script para criação da tabela do exemplo encontra-se na pasta **Database**.
 
-#### Aqui está uma demonstração do Projeto
-
-<img width="934" height="605" alt="ASP-Classico-CRUD-MySQL" src="https://github.com/user-attachments/assets/fd464677-9969-46cf-9fd5-3c32b59cd8b9" />
-
-
 
