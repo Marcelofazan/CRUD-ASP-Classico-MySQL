@@ -2,7 +2,6 @@
 Exemplo de criação de CRUD em ASP Clássico com banco de dados MySQL.
 
 ### O que voçê vai ver nesse Projeto
-- **CRUD** - Conjunto de quatro operações essenciais que permitem a manipulação de dados persistentes (criar, ler, atualizar e excluir).
 - **HTML5** - Utilização de Template Responsivo [owlcarousel](https://owlcarousel2.github.io/OwlCarousel2/demos/demos.html)
 - **MySQL** - Utilização do Driver Unicode 5.3 
 - **ASP Clássico** - Utilização de Linguaguem VbScript 
